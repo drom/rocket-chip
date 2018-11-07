@@ -1,0 +1,19 @@
+{
+  "name": "rocket-chip",
+  "version": "1.0.0",
+  "description": "Rocket Chip Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drom/rocket-chip.git"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/drom/rocket-chip/issues"
+  },
+  "homepage": "https://github.com/drom/rocket-chip#readme"
+}
